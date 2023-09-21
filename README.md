@@ -1,8 +1,5 @@
 # OOD-MBTA
 
-## TEAM NAME
-WeC.A.N
-
 ## PROBLEM STATEMENT
 
 MBTA portal system is a revamped application which allows users and administrators to manage and access Transportation facilities. The application allows the users to access Electronic travel passes for their commute, ability to recharge cards, check scheduled routes of public transport and book car rides from source to destination. The application system is developed using Java, Java FX, File I/O and the class design pattern followed is a Singleton pattern. A static instance of one driver application system object is used to store and maintain the data throughout the instance of execution.
@@ -32,8 +29,3 @@ The Portal includes features such as:
 - QRgen
 - javase
 - core
-
-## AUTHORS
-- Nidhi Raghavendra 
-- Abhinav Manoj Menon
-- Chandana Harish
